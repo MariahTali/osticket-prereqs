@@ -1,2 +1,2 @@
 # osticket-prereqs
-Prerequisites and Installation]
+Prerequisites and Installation
