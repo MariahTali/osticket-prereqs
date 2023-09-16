@@ -19,8 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create a Windows 10 Virtual Machine in Azure
-- Remote Desktop into the virtual machine
+- Enable Internet Information Services (IIS)
+- Install web platform installer
+- Install MySQL and set up username & password
+- Install C++ Redistributable
+- Install OS Ticket & configure permissions
 
 <h2>Installation Steps</h2>
 
